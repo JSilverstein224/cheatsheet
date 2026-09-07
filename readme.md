@@ -9,4 +9,4 @@ Linux
 6. pwd - print working directory
 7. cp - copy
 8. rm - remove file
-
+9. rmdir - remove directory
