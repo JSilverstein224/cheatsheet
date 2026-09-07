@@ -10,3 +10,4 @@ Linux
 7. cp - copy
 8. rm - remove file
 9. rmdir - remove directory
+10. rwx - read write execute
