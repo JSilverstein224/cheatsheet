@@ -13,3 +13,5 @@ Linux
 10. rwx - read write execute
 11. security characters - 9 characters with three sets of three that are called mode - rwx
 
+Git Commands
+1. git branch - create new branch where the name follows 'branch '
