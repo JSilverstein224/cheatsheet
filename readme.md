@@ -8,3 +8,5 @@ Linux
 5. cd - change directory
 6. pwd - print working directory
 7. cp - copy
+8. rm - remove file
+
