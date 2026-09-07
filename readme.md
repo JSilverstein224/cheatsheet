@@ -6,3 +6,4 @@ Linux
 3. ls -l - long listing that starts with a "-" if it is a file and "d" if it is a directory
 4. mv - move a file and used to rename a directory
 5. cd - change directory
+6. pwd - print working directory
