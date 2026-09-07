@@ -19,3 +19,14 @@ Git Commands
 3. git checkout -b 'name' - shortcut to create a new branch ('name') and swtich to it in one step
 4. git touch - creates empty files where the file name comes after touch
 5. git merge - merge the name of the branch that follows 'merge' to the current branch
+6. git init - initializes directory as a new Git repository
+7. git add - file name follows and adds the file to the next commit
+8. git commit -m "changed xyz" - commit your staged content as a new commit snapshot that explains what changed
+
+
+
+Vi Commands
+i - insert
+q - quit
+w - write
+wq - write and quit
