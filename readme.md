@@ -7,3 +7,4 @@ Linux
 4. mv - move a file and used to rename a directory
 5. cd - change directory
 6. pwd - print working directory
+7. cp - copy
