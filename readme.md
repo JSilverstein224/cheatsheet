@@ -15,3 +15,4 @@ Linux
 
 Git Commands
 1. git branch - create new branch where the name follows 'branch '
+2. git checkout - switch to branch where the name follows 'checkout '
