@@ -17,3 +17,4 @@ Git Commands
 1. git branch - create new branch where the name follows 'branch '
 2. git checkout - switch to branch where the name follows 'checkout '
 3. git checkout -b 'name' - shortcut to create a new branch ('name') and swtich to it in one step
+4. git touch - creates empty files where the file name comes after touch
