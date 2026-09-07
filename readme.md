@@ -11,3 +11,5 @@ Linux
 8. rm - remove file
 9. rmdir - remove directory
 10. rwx - read write execute
+11. security characters - 9 characters with three sets of three that are called mode - rwx
+
